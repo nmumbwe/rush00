@@ -1,0 +1,169 @@
+.index
+{
+	background-color: white;
+	background-image: url("../imgs/nmd-r1-og-wallpaper-wqhd.jpg");
+	background-repeat: no-repeat;
+	position: center;
+}
+.top
+{
+	height: 33.33%;
+	width: 100%;
+	border-radius: 20px;
+	box-shadow: 5%;
+	background-image: url("../imgs/wallpaper2you_445842.jpg");
+}
+#header
+{
+	color: purple;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+.login
+{
+	height: 30%;
+	width: 20%;
+	position: absolute;
+	margin-left: 3%;
+	margin-top: 5%;
+	background-color: blue;
+	border-radius: 20px;
+	box-shadow: 10px 10px 10px;
+}
+.register
+{
+	height: 30%;
+	width: 20%;
+	position: absolute;
+	margin-left: 77%;
+	margin-top: 5%;
+	background-color: blue;
+	border-radius: 20px;
+	box-shadow: 10px 10px 10px;
+}
+#login_button
+{
+	margin-left: 15%;
+	margin-top: 5%;
+	height: 7cm;
+	border-radius: 10px;
+	border-color: black;
+	width: 7cm;
+	background-color: purple;
+}
+#register_button
+{
+	margin-left: 17%;
+	margin-top: 5%;
+	height: 7cm;
+	border-radius: 10px;
+	border-color: black;
+	width: 7cm;
+	background-color: purple;
+}
+.login_page
+{
+	background-color: black;
+	background-image: url("../imgs/Media\ Gadgets\ Dark\ Pattern\ Free\ Wallpaper\ HD.jpg");
+}
+.login_form
+{
+	height: 15cm;
+	width: 20cm;
+	border-radius: 10px;
+	background-color: white;
+	margin-left: 31%;
+	margin-top: 12%;
+}
+.login1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	margin-left: 14%;
+	margin-top: 6%;
+}
+.shop_background
+{
+	background-image: url("../imgs/1074949.jpg");
+}
+.shop_header
+{
+	height: 30.3%;
+	position: right;
+	width: 65%;
+	background-color: darkgray;
+	border-radius: 10px;
+	background-image: url("../imgs/cooltext301141920345370.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+.shop_content
+{
+	width: 65%;
+	position: right;
+	height: 2370px;
+	background: linear-gradient(darkgray, black);
+	margin-top: 3%;
+	border-radius: 10px;
+}
+.shop_foot
+{
+	width: 100%;
+	height: 200px;
+	margin-top: 1%;
+	border-radius: 10px;
+  	background: black;
+}
+.shop_tab
+{
+	position: absolute;
+	height: 186%;
+	width: 33%;
+	margin-left: 65%;
+	margin-top: -165%;
+	border-radius: 10px;
+	background: linear-gradient(darkgray, black);
+}
+.flex-container
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+.cart_button
+{
+	margin-left: 35%;
+	height: 20px;
+	margin-top: 98%;
+	background: green;
+	border-radius: 10px;
+	border-color: green;
+
+}
+.flex_item
+{
+	border-radius: 10px;
+	margin-top: 5px;
+	align-content: center;
+	margin: 5px;
+	height: 450px;
+	background: linear-gradient(white, gray);
+	width: 30%;
+	text-align: center;
+	padding: 5px;
+	display: flex;
+}
+.float{
+	position: fixed;
+	width:60px;
+	height:60px;
+	bottom:20px;
+	right:40px;
+	background-color:#0C9;
+	color:#FFF;
+	border-radius:50px;
+	box-shadow: 2px 2px 3px #999;
+}
+.my-float{
+	margin-top:22px;
+}
